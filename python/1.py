@@ -1,0 +1,5 @@
+se = input("enter sentence: ")
+print(se)
+w1=input('word to replace: ')
+w2=input('replacement word: ')
+print(se.replace(w1,w2))
